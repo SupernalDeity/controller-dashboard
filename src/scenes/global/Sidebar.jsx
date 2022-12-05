@@ -94,7 +94,7 @@ function Sidebar() {
               </Box>
 
               <Box textAlign='center'>
-                <Typography variant='h2' color={colors.grey[100]} fontWeight='bold' sx={{ m: "10px 0 0 0" }}>Tony</Typography>
+                <Typography variant='h2' color={colors.grey[100]} fontWeight='bold' sx={{ m: '10px 0 0 0' }}>Tony</Typography>
                 <Typography variant='h5' color={colors.greenAccent[500]}>VP Fancy Admin</Typography>
               </Box>
             </Box>
@@ -126,7 +126,7 @@ function Sidebar() {
             />
             <Item
               title='Invoices Balances'
-              to='/invoices"'
+              to='/invoices'
               icon={<ReceiptOutlinedIcon />}
               selected={selected}
               setSelected={setSelected}
