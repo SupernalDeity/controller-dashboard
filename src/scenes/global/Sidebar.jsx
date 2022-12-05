@@ -90,7 +90,7 @@ function Sidebar() {
           {!isCollapsed && (
             <Box mb='25px'>
               <Box display='flex' justifyContent='center' alignItems='center'>
-                <img alt='profile-user' width='100px' height='100px' src={`../../assets/user-icon.JPG`} style={{ cursor: 'pointer', borderRadius: '50%' }} />
+                <img alt='profile-user' width='100px' height='100px' src={`https://github.com/SupernalDeity/controller-dashboard/blob/main/public/assets/user-icon.jpg`} style={{ cursor: 'pointer', borderRadius: '50%' }} />
               </Box>
 
               <Box textAlign='center'>
