@@ -10,9 +10,10 @@
 * [License](#license)
 
 ## Description
+An admin controller dashboard that stores team members and contact information for easy reference. Allows a user to fully customize sorting to make locating desired information easier. App can store invoice information for easy tracking and managing of expenditures. There is a fully implemented calendar feature for time management. As well as graphs for viewing data more visually appealing. Also includes a geograhy visual that can be modified with data to locate patterns in visits and sales. Currently only supports browser viewing. 
 
 ## Visuals
-![Dashboard Home Screen]()
+![Dashboard Home Screen](./public/assets/controller%20dashboard.png)
 
 ## Links
 GitHub: https://github.com/SupernalDeity/controller-dashboard
@@ -21,8 +22,9 @@ Live Link:
 
 ## Technology
 JavaScript
-HTML
 React
+HTML
+CSS
 Mui
 FullCalendar
 Nivo
